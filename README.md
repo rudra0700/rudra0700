@@ -1,9 +1,8 @@
 ![image alt](https://img.freepik.com/premium-vector/programming-code-icon-3d-low-polygonal-abstract-programming-code-symbol-coding-hacker-background_127544-1186.jpg?w=996)
 )
 <h1 align="center">Hi 👋, I'm Rudra Barua</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <h3 align="left">About me</h3>
-<p align="left">Hi, I'm a frontend web developer skilled in React, Node.js, MongoDB, Express, and Tailwind CSS. I enjoy building intuitive, responsive web applications. While I currently focus on frontend, I'm transitioning towards backend development to become a full-stack expert</p>
+<p align="left">Hi, I'm a frontend web developer from Bangladesh skilled in React, Node.js, MongoDB, Express, and Tailwind CSS. I enjoy building intuitive, responsive web applications. While I currently focus on frontend, I'm transitioning towards backend development to become a full-stack expert</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra0700&label=Profile%20views&color=0e75b6&style=flat" alt="rudra0700" /> </p>
 
