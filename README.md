@@ -1,4 +1,4 @@
-![image alt](![githubBanner](https://github.com/user-attachments/assets/70711f7f-f6d9-49ef-aed0-89a43cb3ed51)
+![image alt](githubBanner](https://github.com/user-attachments/assets/70711f7f-f6d9-49ef-aed0-89a43cb3ed51)
 )
 <h1 align="center">Hi 👋, I'm Rudra Barua</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
