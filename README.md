@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mern project**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript, Nextjs**
 
 - 📫 How to reach me **baruarudra680@gmail.com**
 
