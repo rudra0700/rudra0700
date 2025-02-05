@@ -1,5 +1,5 @@
 ![image alt](https://img.freepik.com/premium-vector/programming-code-icon-3d-low-polygonal-abstract-programming-code-symbol-coding-hacker-background_127544-1186.jpg?w=996)
-<h1 align="center">Hi 👋, I'm Rudra Barua</h1>
+<h1 align="center">Hi 👋, I'm Rudra Barua, a passionate frontend developer</h1>
 <h3 align="left">About me</h3>
 <p align="left">Hi, I'm a frontend web developer from Bangladesh skilled in React, Node.js, MongoDB, Express, and Tailwind CSS. I enjoy building intuitive, responsive web applications. While I currently focus on frontend, I'm transitioning towards backend development to become a full-stack expert</p>
 
